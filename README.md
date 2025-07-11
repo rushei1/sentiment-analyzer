@@ -53,6 +53,16 @@ Once running:
 
 ## ⚠️ Manual Setup
 
+### Fine-tune the Model (First Run Only)
+Before launching the backend, make sure to fine-tune and save the model using:
+
+```bash
+cd backend/finetune
+python finetune.py
+```
+This will generate the model and tokenizer files under backend/model/.
+
+
 ### 🧹 Backend (FastAPI + Transformers)
 
 ```bash
