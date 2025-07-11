@@ -1,0 +1,46 @@
+# === Node.js (Frontend) ===
+frontend/node_modules/
+frontend/.next/
+frontend/.cache/
+frontend/dist/
+frontend/build/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.production.local
+
+# === Python (Backend) ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+backend/.env
+backend/.pytest_cache/
+backend/.mypy_cache/
+backend/venv/
+backend/env/
+backend/.DS_Store
+backend/model
+
+# === Model Files (Handled via LFS) ===
+*.pt
+*.bin
+
+# === System Files ===
+.DS_Store
+Thumbs.db
+
+# === Logs and Temp ===
+*.log
+*.tmp
+
+# === IDE/Editor ===
+.vscode/
+.idea/
+*.swp
+
+# === Docker ===
+*.pid
+docker-compose.override.yml
+
+# === Git ===
+!.gitattributes
