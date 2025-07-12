@@ -136,14 +136,7 @@ Available at: [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ## 📹 Project Demo
 
-🎥 [Watch the 3-min Demo Video (Unlisted YouTube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK)
-
-Includes:
-
-* Project overview
-* Design decisions
-* Build process walkthrough
-* Real-time demo
+🎥 [Watch the 3-min Demo Video](https://www.youtube.com/watch?v=XYR_QuZr0Dc)
 
 ---
 
